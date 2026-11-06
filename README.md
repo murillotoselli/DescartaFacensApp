@@ -64,7 +64,7 @@ O DescartaFacens é um aplicativo mobile que conecta moradores a pontos de colet
 
 ## 🔗 Links Úteis
 
-- 🌐 **Landing Page:** [Inserir link do Google Sites aqui]
+- 🌐 **Landing Page:** https://sites.google.com/view/descartafacenssite/in%C3%ADcio?authuser=3
 - 📱 **Protótipo no Figma:** https://www.figma.com/make/88dFmSTQhiXEzEM4S0JxOv?node-id=
 - 📊 **Trello:** https://trello.com/b/TbFHaivs/projeto-upx-ii-procode
 
